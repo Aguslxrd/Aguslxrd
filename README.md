@@ -1,5 +1,44 @@
 ### Hi there 👋
 
+<div id="header" allign="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmZDU1MTk5MmQwZWU2NzY3MmU3OGQ5NTA3OTU5Y2I2YmJlNDg5MiZjdD1n/3oxHQM2nelb4qWtoje/giphy.gif" width="200">
+</div>
+<h1 align="center" >Hi, my name is agustin but you can call me tat00 ;) </h1>
+
+
+👨‍💻 About me:
+- Currently i'm studying software development
+- Contact me on: aguslxrd@gmail.com
+- Actually im working on a few personal projects
+
+<div align="left">
+    <h3>🔨 Language and Tools:</h3>
+<div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSHARP" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="css3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="BASH" alt="bash" width="40" height="40"/>&nbsp;
+</div>
+
+</div>
+
+
+
+
+
+📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tat00&theme=dracula&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+![tat00's GitHub stats](https://github-readme-stats.vercel.app/api?username=tat00&hide=contribs,prs&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tat00&theme=dracula)](https://github.com/tat00/github-readme-stats)
+
+
+
+  
 <!--
 **tat00/tat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +52,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
