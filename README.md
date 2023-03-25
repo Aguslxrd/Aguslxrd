@@ -8,9 +8,13 @@
 
 👨‍💻 About me:
 - Currently i'm studying software development
-- Contact me on: aguslxrd@gmail.com
+- 📫How to reach me: aguslxrd@gmail.com
 - Actually im working on a few personal projects
 
+
+
+<h1> 
+</h1>
 <div align="left">
     <h3>🔨 Language and Tools:</h3>
 <div> 
@@ -24,9 +28,8 @@
 
 </div>
 
-
-
-
+<h1> 
+</h1>
 
 📊 My Stats :
 
@@ -38,7 +41,8 @@
 
 
 
-  
+<h1> 
+</h1>
 <!--
 **tat00/tat00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
