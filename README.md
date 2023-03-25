@@ -7,9 +7,9 @@
 
 
 👨‍💻 About me:
-- Currently i'm studying software development
+- 📝Currently i'm studying software development
 - 📫How to reach me: aguslxrd@gmail.com
-- Actually im working on a few personal projects
+- 📄Actually im working on a few personal projects
 
 
 
