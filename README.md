@@ -3,13 +3,13 @@
 <div id="header" allign="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmZDU1MTk5MmQwZWU2NzY3MmU3OGQ5NTA3OTU5Y2I2YmJlNDg5MiZjdD1n/3oxHQM2nelb4qWtoje/giphy.gif" width="200">
 </div>
-<h1 align="center" >Hi, my name is agustin but you can call me tat00 ;) </h1>
+<h1 align="center" >Hi, my name is agustin but you can call me tato ;) </h1>
 
 
 👨‍💻 About me:
 - 📝Currently i'm studying software development
 - 📫How to reach me: aguslxrd@gmail.com
-- 📄Actually im working on a few personal projects
+- 📄All of my public projects are available at https://github.com/tat00?tab=repositories
 
 
 
