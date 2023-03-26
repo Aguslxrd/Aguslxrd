@@ -6,11 +6,12 @@
 <h1 align="center" >Hi, my name is agustin but you can call me tato ;) </h1>
 
 
-👨‍💻 About me:
-- 📝Currently i'm studying software development
-- 📫How to reach me: aguslxrd@gmail.com
-- 📄All of my public projects are available at https://github.com/tat00?tab=repositories
-
+<h3>👨‍💻 About me:</h3>
+<p>
+<h5>- 📝Currently i'm studying software development</h5>
+<h5>- 📫How to reach me: aguslxrd@gmail.com</h5>
+<h5>- 📄All of my public projects are available at https://github.com/tat00?tab=repositories</h5>
+</p>
 
 
 <h1> 
@@ -31,7 +32,7 @@
 <h1> 
 </h1>
 
-📊 My Stats :
+<h3>📊 My Stats :</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tat00&theme=dracula&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
