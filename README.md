@@ -20,7 +20,7 @@
     <h3>🔨 Language and Tools:</h3>
 <div> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSHARP" alt="csharp" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt="java" width="40" height="40"/>&nbsp;
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt="java" width="40" height="40"/>&nbsp; -> I dont like it-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="css3" width="40" height="40"/>&nbsp;
