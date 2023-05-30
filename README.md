@@ -29,7 +29,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".net" width="40" height="40"/>&nbsp;   
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="git" width="40" height="40"/>&nbsp;     
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="github" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" alt="jquery" width="40" height="40"/>&nbsp;    
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg " title="Javascript" alt="js" width="40" height="40"/>&nbsp;   
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="ts" width="40" height="40"/>&nbsp;  I dont like it     -->
 
