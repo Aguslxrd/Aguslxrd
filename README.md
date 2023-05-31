@@ -3,7 +3,7 @@
 <div id="header" allign="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBmZDU1MTk5MmQwZWU2NzY3MmU3OGQ5NTA3OTU5Y2I2YmJlNDg5MiZjdD1n/3oxHQM2nelb4qWtoje/giphy.gif" width="200">
 </div>
-<h1 align="center" >Hi, my name is agustin but you can call me tato ;) </h1>
+<!-- <h1 align="center" >Hi, my name is agustin</h1> -->
 
 
 <h3>👨‍💻 About me:</h3>
