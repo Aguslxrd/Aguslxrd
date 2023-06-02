@@ -6,12 +6,12 @@
 <!-- <h1 align="center" >Hi, my name is agustin</h1> -->
 
 
-<h3>👨‍💻 About me:</h3>
+<!-- <h3>👨‍💻 About me:</h3>
 <p>
 <h5>- 📝Currently i'm studying software development</h5>
 <h5>- 📫How to reach me: aguslxrd@gmail.com</h5>
 <h5>- 📄All of my public projects are available at https://github.com/Aguslxrd?tab=repositories</h5>
-</p>
+</p> -->
 
 
 <h1> 
