@@ -15,7 +15,7 @@
 - MySql
 
 ## 🚀 Proyectos Destacados:
-- 📂 Puedes explorar todos mis proyectos públicos [aquí](https://github.com/Aguslxrd?tab=repositories).
+- 📂 Puedes ver todos mis proyectos públicos [aquí](https://github.com/Aguslxrd?tab=repositories).
 
 ## 📬 Contáctame:
 - 📧 Email: suffodamian02@gmail.com
